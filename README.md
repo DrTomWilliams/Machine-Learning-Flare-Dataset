@@ -1,3 +1,4 @@
+![Machine Learning Solar Dataset](ML_Sol_Flare_Dataset.png)
 # Machine-Learning-Flare-Dataset
 
 A curated dataset of solar Active Region magnetic field parameters for machine learning–based solar flare forecasting research.
